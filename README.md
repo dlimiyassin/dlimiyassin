@@ -1,7 +1,7 @@
 
 <h1>
   A little more about me... 
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="50" style="vertical-align: middle;"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50" style="vertical-align: middle;"/>
 </h1>
 
 ```javascript
