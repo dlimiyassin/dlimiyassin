@@ -1,4 +1,4 @@
-
+```javascript
 const YassineDlimi = {
         Bio: "Hey there! I am a fullsatck java angular developer",
         Skills: {
