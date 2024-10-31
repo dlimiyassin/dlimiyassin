@@ -1,9 +1,8 @@
 
 <h1>
   A little more about me... 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3QxdGhsbHhmYXEyanduaW1tcHV1aGY2ZDUxY2g3M3JtbW1xMGw0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="50" style="vertical-align: middle;"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="50" style="vertical-align: middle;"/>
 </h1>
-
 
 ```javascript
 
