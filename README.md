@@ -1,5 +1,9 @@
-# 👨‍💻 A little more about me...
+# A little more about me...
+
+![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
 ```javascript
+
 const YassineDlimi = {
         Bio: "Hey there! I am a fullsatck java angular developer",
         Skills: {
