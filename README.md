@@ -1,7 +1,7 @@
 
 <h1>
-  Hamza Bekkaoui's Profile
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" style="vertical-align: middle;"/>
+  A little more about me... 
+  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://giphy.com/embed/bGgsc5mWoryfgKBx1u)" width="50" style="vertical-align: middle;"/>
 </h1>
 
 
