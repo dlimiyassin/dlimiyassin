@@ -6,7 +6,7 @@
 
 ```javascript
 
-const YassineDlimi = {
+let YassineDlimi = {
         Bio: "Hey there! I am a fullsatck java angular developer",
         Skills: {
             Web_Development_Technologies: ["HTML5", "CSS3"],
