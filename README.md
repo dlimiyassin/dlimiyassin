@@ -15,7 +15,7 @@ let YassineDlimi = {
                             Backend:  ["SPRING", "SPRING BOOT", "SPRING DATA", "SPRING SECURITY"] ,
                             Frontend: ["ANGULAR", "TAILWINDCSS", "BOOTSTRAP"] ,
                         },
-            Databases: ["MySQL", "PostgreSQL"],
+            Databases: ["MySQL", "PostgreSQL", "MongoDB"],
             Contact: "dlimiyassine08@gmail.com",
             Location: "Morocco, Beni Mellal - Rabat",
         }
